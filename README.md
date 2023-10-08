@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+<h2 align="center">  About me </h2>
+ <b>Name:</b> Ren</li>
+<li>
+<b>Nick:</b> Shirayuki_39(Keeping the old GitHub Nickname to not break my local git repos)
+</li>
+<li>
+<b>Loves:</b> anime, vocaloid music
+</li>
+<li>
+<b>Gender:</b> He/Male
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Android Building
+</li>
+<br><br><br>
+</div>
