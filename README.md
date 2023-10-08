@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <b>Gender:</b> He/Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Android Building
+<b>Hobbys:</b> Tech Stuff, Flashing ROMs
 </li>
 <br><br><br>
 </div>
