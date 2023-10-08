@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
 <h2 align="center">  About me </h2>
- <b>Name:</b> Ren</li>
+<li></li> <b>Name:</b> Ren</li>
 <li>
 <b>Nick:</b> Shirayuki_39(Keeping the old GitHub Nickname to not break my local git repos)
 </li>
