@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**LordDemecrius83/LordDemecrius83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shirayuki39/Shirayuki39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="center">  About me </h2>
 <li><b>Name:</b> Ren</li>
 <li>
-<b>Nick:</b> Shirayuki_39(Keeping the old GitHub Nickname to not break my local git repos, might change later when I'm no longer lazy)
+<b>Nick:</b> Shirayuki39
 </li>
 <li>
 <b>Loves:</b> anime, vocaloid music
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <br><br><br>
 </div>
 
-[![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordDemecrius83&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirayuki39&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
