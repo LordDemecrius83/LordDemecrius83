@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h2 align="center">  About me </h2>
 <li><b>Name:</b> Ren</li>
 <li>
-<b>Nick:</b> Shirayuki39/Shirayuku428
+<b>Nick:</b> Shirayuki39/Shirayuki428
 </li>
 <li>
 <b>Loves:</b> anime, vocaloid music
